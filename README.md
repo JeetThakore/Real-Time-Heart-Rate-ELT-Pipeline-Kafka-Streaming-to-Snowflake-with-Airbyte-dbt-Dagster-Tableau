@@ -346,7 +346,3 @@ chmod +x run-ab-platform.sh
 Additionally, since the EC2 instance is not continuously running, the `AIRBYTE_HOST` environment variable in Dagster Cloud must be updated to the new IP address each time the instance relaunches.
 
 ---
-
-## Acknowledgments
-
-Inspired by [madyark's heart-rate-stream project](https://github.com/madyark/heart-rate-stream). Built upon and modified for learning purposes.
