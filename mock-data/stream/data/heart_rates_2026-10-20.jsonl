@@ -45,3 +45,12 @@
 {"user_id": "19337", "heart_rate": "131", "timestamp": "1792523069", "meta": {"activity_id": "20153", "location": {"latitude": "58.32369", "longitude": "30.91428"}}}
 {"user_id": "13651", "heart_rate": "79", "timestamp": "1792523069", "meta": {"activity_id": "20568", "location": {"latitude": "52.94619", "longitude": "62.70826"}}}
 {"user_id": "16193", "heart_rate": "83", "timestamp": "1792523069", "meta": {"activity_id": "20248", "location": {"latitude": "66.10001", "longitude": "145.71043"}}}
+{"user_id": "15024", "heart_rate": "127", "timestamp": "1792523120", "meta": {"activity_id": "20153", "location": {"latitude": "3.4144", "longitude": "97.34617"}}}
+{"user_id": "17295", "heart_rate": "112", "timestamp": "1792523120", "meta": {"activity_id": "20261", "location": {"latitude": "50.9339", "longitude": "79.33011"}}}
+{"user_id": "19897", "heart_rate": "102", "timestamp": "1792523120", "meta": {"activity_id": "20954", "location": {"latitude": "-0.96651", "longitude": "107.22142"}}}
+{"user_id": "12641", "heart_rate": "76", "timestamp": "1792523120", "meta": {"activity_id": "20263", "location": {"latitude": "32.75681", "longitude": "-10.92296"}}}
+{"user_id": "12629", "heart_rate": "77", "timestamp": "1792523120", "meta": {"activity_id": "20153", "location": {"latitude": "-44.4147", "longitude": "-43.61878"}}}
+{"user_id": "15372", "heart_rate": "125", "timestamp": "1792523120", "meta": {"activity_id": "20248", "location": {"latitude": "2.7422", "longitude": "35.4098"}}}
+{"user_id": "17044", "heart_rate": "127", "timestamp": "1792523120", "meta": {"activity_id": "20658", "location": {"latitude": "58.85579", "longitude": "-24.85344"}}}
+{"user_id": "16123", "heart_rate": "136", "timestamp": "1792523120", "meta": {"activity_id": "20248", "location": {"latitude": "-14.73064", "longitude": "36.67622"}}}
+{"user_id": "17830", "heart_rate": "177", "timestamp": "1792523120", "meta": {"activity_id": "20133", "location": {"latitude": "-57.24714", "longitude": "-32.00248"}}}
